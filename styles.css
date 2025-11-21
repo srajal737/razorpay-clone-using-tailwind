@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@theme {/*making our own themes like color , font ,border-radius etc....*/
+    --color-chocolate: #86563c;
+}
